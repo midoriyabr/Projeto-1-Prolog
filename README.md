@@ -1,3 +1,3 @@
 # Projeto-1-Prolog
 
-Bot em Prolog que ajuda os usuários a escolher os componentes mais adequados de um computador para compra.
+Bot em Prolog que mostra aos usuarios os componentes e preços que se adequam a CPU e o limite de preço escolhido.
